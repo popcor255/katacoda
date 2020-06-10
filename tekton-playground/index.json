@@ -12,7 +12,7 @@
     ],
     "assets": {
       "host01": [
-        { "file": "tools/launch.sh",    "target": "~/" }
+        { "file": "tools/start.sh",    "target": "~/" }
       ]
     },
     "intro": {
