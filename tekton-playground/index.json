@@ -10,6 +10,11 @@
         "text": "step1.md"
       }
     ],
+    "assets": {
+      "host01": [
+        { "file": "tools/launch.sh",    "target": "~/" }
+      ]
+    },
     "intro": {
       "text": "intro.md"
     },
